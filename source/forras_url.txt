@@ -1,0 +1,11 @@
+https://www.kaggle.com/datasets/chasewillden/topstarredopensourceprojects
+
+Az eredeti csv fájlban a soron belül az adatokat veszző választja el egymástól.
+Az adatfeldolgozás megkönnyítése érdekében itt a határoló karakter veszző helyett pontosvessző.
+
+
+Megjegyzés
+----------
+CSV (Comma-separated values) fájlformátum
+Az adatokat vessző választja el. A magyar - és  még néhány - nyelvben ez azonban problémát okozna
+a tizedesvessző használata miatt. Ezért itt határoló karakterként pontosvessző használatos.
